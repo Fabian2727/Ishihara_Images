@@ -2,7 +2,7 @@
 - The original images were obtained from https://enchroma.com.au/pages/colour-blindness-test
 - Each pair follows the format: Original ↔ Corrected.
 
-| Original | Modificada |
+| Original | Corrected |
 |----------|------------|
 | ![Original 1](Ishihara/1.png) | ![Modificada 1](Ishihara_Pyramid/1_daltonise_anisotropic_pyramid.png) |
 | ![Original 2](Ishihara/2.png) | ![Modificada 2](Ishihara_Pyramid/2_daltonise_anisotropic_pyramid.png) |
